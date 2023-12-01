@@ -1,2 +1,2 @@
 # hello-world
-Repositorio para llevar a cabo proyectos propios
+Yo soy un estudiante muy motivado sobre el mundo de la informatica.
